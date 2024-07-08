@@ -1,5 +1,5 @@
 <!--- ## Hi there 👋 -->
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/anurag925/anurag925/main/profile_image.png))
+![Hi there 👋 I'm Anurag]([https://raw.githubusercontent.com/anurag925/anurag925/main/profile_image.png])
 <!--
 **anurag925/anurag925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
