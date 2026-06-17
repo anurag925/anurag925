@@ -52,6 +52,9 @@ I'm a passionate Software Engineer based in India who loves building developer t
       <strong>Databases</strong><br/><br/>
       <img src="https://img.shields.io/badge/SQLite-%2307405E.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
       <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
+      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
     </td>
     <td valign="top" width="50%">
       <strong>Interests & Paradigms</strong><br/><br/>
